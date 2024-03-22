@@ -1,0 +1,13 @@
+:root {
+  background-image:url('/Images/DogsImages.jpeg');
+  background-size: 35%;
+  background-blend-mode: multiply;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 1000px;
+  min-height: 100vh;
+}
